@@ -16,8 +16,10 @@
 ## 4. 취약점 분석
 - 인증 메커니즘에서 잘못된 memcmp 결과로 인해 잘못된 패스워드도 1/256 확률로 승인된다.
 - 공격자는 root 권한을 탈취할 수 있다.
+- 
 
-##5. 실행과정
+## 5. 실행과정
+
 ![image](https://github.com/user-attachments/assets/8fcbf85f-53d4-407b-97e8-3b4f3db68738)
 
 ![image](https://github.com/user-attachments/assets/960e6fe4-4861-4612-91ec-46b812485815)
